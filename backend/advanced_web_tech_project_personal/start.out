@@ -1,0 +1,28 @@
+
+> hotel_management@0.0.1 start
+> nest start
+
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAdminModule dependencies initialized[39m[38;5;3m +11ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/}:[39m[38;5;3m +3ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAdminController {/admin}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id, PUT} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id/role, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/logs/all, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/backup, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAdminController {/admin}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id, PUT} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id/role, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/:id, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/logs/all, GET} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/backup, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21440  - [39m04/08/2026, 7:12:56 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +1ms[39m
